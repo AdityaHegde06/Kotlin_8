@@ -14,4 +14,5 @@ Development Environment: Android Studio / IntelliJ IDEA
 🔑 Key Concepts Covered
 Lambda Expressions: Simplifying logic using inline functions.
 Single-Expression Functions: Writing clean and concise Kotlin code.
+
 Palindrome Logic: Checking if a string reads the same backward as forward.
